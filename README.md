@@ -10,7 +10,7 @@ My gcc version using on this project it was been installed on Ubuntu 22.04
 To run the projects just do:
 
 ```bash
-gcc main.c -o main
+gcc main.c structure.c -o main
 ./main
 ```
 
